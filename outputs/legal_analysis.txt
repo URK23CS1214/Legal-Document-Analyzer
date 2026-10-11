@@ -1,0 +1,52 @@
+AUTOMATED LEGAL DOCUMENT ANALYSIS
+========================================
+
+**Analysis of the Service Agreement**
+
+**1. Document Type**
+* Service Agreement
+
+**2. Parties Involved**
+* ABC Technologies
+* XYZ Solutions
+
+**3. Purpose of the Agreement**
+* Software development services
+
+**4. Obligations of Each Party**
+* ABC Technologies:
+	+ Pay XYZ Solutions ₹50,000 per month
+	+ Maintain confidentiality
+* XYZ Solutions:
+	+ Provide software development services
+	+ Maintain confidentiality
+
+**5. Payment Terms**
+* Monthly payment of ₹50,000 to XYZ Solutions
+
+**6. Duration**
+* 12 months, starting from 1 July 2026
+
+**7. Termination Conditions**
+* Either party may terminate the agreement by providing 30 days written notice
+
+**8. Important Dates**
+* Start date: 1 July 2026
+
+**9. Confidentiality Clauses**
+* Both parties must maintain confidentiality
+
+**10. Liability Clauses**
+* Not mentioned in the document
+
+**11. Intellectual Property Clauses**
+* Not mentioned in the document
+
+**12. Dispute Resolution**
+* Not mentioned in the document
+
+**13. Governing Law**
+* Not mentioned in the document
+
+**14. Concise Summary**
+* Service Agreement between ABC Technologies and XYZ Solutions for software development services, lasting 12 months, with monthly payments of ₹50,000 and a termination period of 30 days.
